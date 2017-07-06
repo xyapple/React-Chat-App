@@ -6,5 +6,5 @@ export default function (){
         {title: 'HTML + CSS 101'},
         {title: 'The Dark Tower'},
         {title: 'Ruby'}
-    ]
+    ];
 }
