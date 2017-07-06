@@ -1,4 +1,4 @@
-# React-Chat-App
+# React-Redux-BookApp
 ### ReduxSimpleStarter
 
 ```
